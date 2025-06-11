@@ -1,1 +1,3 @@
-# mtm6404-frontend-mentor-your-github-harpreet66
+Name:harpreet
+Student Number: 90541145814  
+Challenge: News Homepage
